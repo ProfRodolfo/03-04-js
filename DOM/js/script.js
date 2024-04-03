@@ -61,3 +61,9 @@ firstLink.setAttribute("href", "https://www.sp.senac.br");
 console.log(firstLink.getAttribute("href"));
 // 4 - teste - fazendo o atributo abrir numa nova aba
 firstLink.setAttribute("target", "_blank");
+
+
+// 11 - posicao do elemento
+mainContainer.style.color = "red";
+mainContainer.style.backgroundColor = "#333";
+mainContainer.style.paddingBottom = "15px";
